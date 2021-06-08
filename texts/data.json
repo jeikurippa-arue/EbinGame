@@ -1,0 +1,343 @@
+﻿{
+    "Sheet1": [
+        {
+            "Id": "1",
+            "Name": "Lucky Draw!",
+            "Effect": "Pyöräyttäkää onnenpyörää, jos pyörä osuus saman biomin kohdalle jossa olette, keräilkää 1 token per nenä. Ne joilla menee huti\",\" niin ottakaa shotti.",
+            "PhotoFilename": "lucky_draw",
+            "BiomCount": "4"
+        },
+        {
+            "Id": "2",
+            "Name": "Jackpot!",
+            "Effect": "Teillä kävi tsägä, keräilkää 1 token per nenä ja hörpätkää jotain väkevää päälle.",
+            "PhotoFilename": "jackpot",
+            "BiomCount": "1"
+        },
+        {
+            "Id": "3",
+            "Name": "Rewind",
+            "Effect": "Toistakaa viimekierroksen tapahtumat tismalleen samanlaisena uudelleen. ",
+            "PhotoFilename": "rewind",
+            "BiomCount": "1"
+        },
+        {
+            "Id": "4",
+            "Name": "Eternal Bond",
+            "Effect": "Välillenne muodostuu ikuinen sidos\",\" joka pakottaa teidät juomaan loppupelin ajan identtisesti. Eli jos bondisi juo, sinäkin juot.",
+            "PhotoFilename": "eternal_bond",
+            "BiomCount": "1"
+        },
+        {
+            "Id": "5",
+            "Name": "Speechless",
+            "Effect": "Ette voi puhua 5 minuuttiin. Mikäli puhutte \",\" niin jokaisesta sanasta yksi reilu hörppy.",
+            "PhotoFilename": "speechless",
+            "BiomCount": "1"
+        },
+        {
+            "Id": "6",
+            "Name": "Dirge",
+            "Effect": "You have been stabbed in the back. Nappaa shotti kipuun.",
+            "PhotoFilename": "dirge",
+            "BiomCount": "1"
+        },
+        {
+            "Id": "7",
+            "Name": "Loot - Epic Mug",
+            "Effect": "Eeppinen muki droppas! Voit määrätä jollekin 1 shotin mikäli voitat mukin rollissa. Ratkaiskaa Dicellä kuka biomissa olevista voittaa lootin.",
+            "PhotoFilename": "epic_mug",
+            "BiomCount": "1"
+        },
+        {
+            "Id": "8",
+            "Name": "Loot - Epic Moose Leather Vest",
+            "Effect": "Eeppinen chesti droppas! Olet immuuni seuraavalle asialle joka kohdistuu sinuun.  Ratkaiskaa Dicellä kuka biomissa olevista voittaa lootin.",
+            "PhotoFilename": "moose_leather_vest",
+            "BiomCount": "1"
+        },
+        {
+            "Id": "9",
+            "Name": "Greatsword of Vodka",
+            "Effect": "Iso miekka droppas! Voit tällä miekalla osoittaa jollekulle yhden mieleisesi juoman. Ratkaiskaa Dicellä kuka biomissa olevista voittaa lootin.",
+            "PhotoFilename": "vodka_sword",
+            "BiomCount": "1"
+        },
+        {
+            "Id": "10",
+            "Name": "Waterfall",
+            "Effect": "Imitoitte vesiputousta juomalla juomaanne 10 sekuntia putkeen.",
+            "PhotoFilename": "waterfall",
+            "BiomCount": "1-4"
+        },
+        {
+            "Id": "11",
+            "Name": "Divine Intervention",
+            "Effect": "Voit keskeyttää pelin 2 minuutin ajaksi ja tehdä jotain muuta.",
+            "PhotoFilename": "divine_intervention",
+            "BiomCount": "1-4"
+        },
+        {
+            "Id": "12",
+            "Name": "Kick of the Crazy Nerd",
+            "Effect": "Teillä on 30 sekuntia aikaa juoda lasinne tyhjäksi. Aika alkaa nyt!",
+            "PhotoFilename": "nerd_kick",
+            "BiomCount": "1-4"
+        },
+        {
+            "Id": "13",
+            "Name": "Master of questions",
+            "Effect": "Olet nyt kysymysmestari pelin loppuun asti. Jos joku vastaa kysymykseesi hän ottaa reilusti hörppyä.",
+            "PhotoFilename": "master_of_questions",
+            "BiomCount": "1-2"
+        },
+        {
+            "Id": "14",
+            "Name": "Loot - Bronze Ring",
+            "Effect": "Pronssisormus droppas! Voit vaihtaa seuraavan kortin kohdalla haluamaasi biomiin. Ratkaiskaa Dicellä kuka biomissa olevista voittaa lootin.",
+            "PhotoFilename": "pronssisormus",
+            "BiomCount": "1"
+        },
+        {
+            "Id": "15",
+            "Name": "Janitor",
+            "Effect": "Napatkaa isot hörpyt ja käykää tarkastamassa grillin sekä saunan tilanne. Täyttäkää puukori jos on tarvis. Tuokaa lisää juotavaa niille jotka sitä tarvitsevat.",
+            "PhotoFilename": "janitor",
+            "BiomCount": "1"
+        },
+        {
+            "Id": "16",
+            "Name": "Punch of the Drunken Dwarf",
+            "Effect": "Valitsemanne biomin pelaajat juovat lasinsa tyhjäksi heti. Äänestäkää jos teitä on monta.",
+            "PhotoFilename": "dwarf_punch",
+            "BiomCount": "1"
+        },
+        {
+            "Id": "17",
+            "Name": "LUKKO",
+            "Effect": "Viimeinen joka huutaa LUKKO! juo yhden shotin. ",
+            "PhotoFilename": "lukko",
+            "BiomCount": "1-4"
+        },
+        {
+            "Id": "19",
+            "Name": "WineTasting!",
+            "Effect": "Maistelkaa erilaisia oluita tai viineja tai viinoja\",\" sekä analysoikaa niitä. Aikaa 1min. ",
+            "PhotoFilename": "wine_tasting",
+            "BiomCount": "1-2"
+        },
+        {
+            "Id": "20",
+            "Name": "Shuffle",
+            "Effect": "Sekoittakaa kaikkien nappuloiden paikat pelilaudalla oman maun mukaan. Teidän pitää päästä yhteisymmärrykseen jos teitä on monta. Samalla ottakaa kunnon hömpsyt.",
+            "PhotoFilename": "shuffle",
+            "BiomCount": "1"
+        },
+        {
+            "Id": "22",
+            "Name": "Time Wrap",
+            "Effect": "Voitte manipuloida aikaa ja kopioida jonkun aiemmin tapahtuneen eventin uudelleen. Ja se tapahtuu heti. Jos teitä on monta niin äänestätte tapahtumasta.",
+            "PhotoFilename": "time_warp",
+            "BiomCount": "1"
+        },
+        {
+            "Id": "23",
+            "Name": "Trap",
+            "Effect": "Astuitte ansaan! Tästä hyvästä nappaatte muutaman kunnon hörpyn per tokeni jonka omistatte. ",
+            "PhotoFilename": "trap",
+            "BiomCount": "1-4"
+        },
+        {
+            "Id": "24",
+            "Name": "Prost!",
+            "Effect": "Skoolatkaa ja huutakaa samalla kovaan ääneen PROOOST! Naurakaa perään kovaäänisesti. Sitten hörppäätte isot kulaukset ja röyhtäisette perään. ",
+            "PhotoFilename": "prost",
+            "BiomCount": "1-4"
+        },
+        {
+            "Id": "25",
+            "Name": "Agressiiviset Maahiset",
+            "Effect": "Kohtaatte joukon agressiivisia maahisia. Triggeröikää biomibattle! Hävitessännekusitte heti housuun ja nappaatte yhdet shotit. Voitosta tietysti tokenit jakoon normisti.",
+            "PhotoFilename": "agressiiviset_maahiset",
+            "BiomCount": "1-4"
+        },
+        {
+            "Id": "26",
+            "Name": "The Hunting",
+            "Effect": "Olette nyt metsästäjiä. Se pelaaja\",\" joka sanoo ääneen kirosanan, joutuu saaliiksenne. Mikäli huomaatte jonkun kiroilevan, voitte määrätä sille shotin.",
+            "PhotoFilename": "janis",
+            "BiomCount": "1-2"
+        },
+        {
+            "Id": "27",
+            "Name": "Ystävällinen Maahinen",
+            "Effect": "Tapaatte ystävällisen maahisen\",\" joka vie reppunne ja samalla suurmaagi Tosz Roszin kootut runot! Voi pentele! Napatkaa isot hörpyt harmitukseen ja pahoitelkaa tozzrossilel tapahtunutta.",
+            "PhotoFilename": "ystavallinen_maahinen",
+            "BiomCount": "1"
+        },
+        {
+            "Id": "28",
+            "Name": "Loot - Lucky Coin",
+            "Effect": "No nyt droppas onnen kolikko! Se jolla on eniten tokeneita\",\" toteuttaa yhden toiveesi. Ratkaiskaa Dicellä kuka biomissa olevista voittaa lootin.",
+            "PhotoFilename": "lucky_coin",
+            "BiomCount": "1"
+        },
+        {
+            "Id": "29",
+            "Name": "Dengue Fever",
+            "Effect": "Saitte kuumeen, hörpätkää jatkuvasti juotavaa jotta pysytte hengissä koko loppupelin. Tasaisin väliaijoin tilanteesta huolimatta.",
+            "PhotoFilename": "dengue",
+            "BiomCount": "1-4"
+        },
+        {
+            "Id": "30",
+            "Name": "Tame the Wild Horse!",
+            "Effect": "Metsässä kävellessäsi kohtaat villin orin! Koetat kesyttää sen. Jokainen biomissa oleva voi koittaa heittää Dicellä luvun 6 onnistuakseen. Onnistuessasi saat päättää ketkä kaksi juovat shotin.",
+            "PhotoFilename": "villihevonen",
+            "BiomCount": "1"
+        },
+        {
+            "Id": "31",
+            "Name": "Know thy Beer",
+            "Effect": "Luetelkaa vuorotellen olut-merkkejä. Se jolla ensin kestää yli 5 sekuntia vastata uusi olutmerkki, juo shotin.",
+            "PhotoFilename": "know_thy_beer",
+            "BiomCount": "1-4"
+        },
+        {
+            "Id": "32",
+            "Name": "Time to drink",
+            "Effect": "Juokaa muutama oikeen reilu hörppy.",
+            "PhotoFilename": "time_to_drink",
+            "BiomCount": "1-4"
+        },
+        {
+            "Id": "33",
+            "Name": "Its a shot time!",
+            "Effect": "Juokaa yksi shotti mieheen.",
+            "PhotoFilename": "shot_time",
+            "BiomCount": "1-4"
+        },
+        {
+            "Id": "34",
+            "Name": "Double time!",
+            "Effect": "Seuraavan kortin ajan juotte kaiken tuplana!",
+            "PhotoFilename": "double_time",
+            "BiomCount": "1-4"
+        },
+        {
+            "Name": "Encounter: Boar!",
+            "Effect": "Kohtaat Villisian! Taistelet henkesi edestä.",
+            "PhotoFilename": "villisika"
+        },
+        {
+            "Name": "Encounter: Siperian Tiger",
+            "Effect": "Kohtaat Siperian tiikerin! Taistelet henkesi edestä.",
+            "PhotoFilename": "siperian_tiikeri"
+        },
+        {
+            "Name": "Treasure in the Sand",
+            "Effect": "Löysit hiekkaan ja mutaan kaivautuneen tavaran.",
+            "PhotoFilename": "tavara_hiekassa"
+        },
+        {
+            "Name": "Suspicious Item on the Road",
+            "Effect": "Löysit keskeltä tietä jonkin epäilyttävän tavaran.",
+            "PhotoFilename": "tiellä_epailyttava_tavara"
+        },
+        {
+            "Name": "Piece of old Writing",
+            "Effect": "Löysit palan vanhaa paperia.",
+            "PhotoFilename": "pala_vanhaa_paperia"
+        },
+        {
+            "Name": "Unknown Traveller",
+            "Effect": "Tapaat matkallasi tuntemattoman Vaeltajan.",
+            "PhotoFilename": "tuntematon_vaeltaja"
+        },
+        {
+            "Name": "Eero the Drunkard",
+            "Effect": "Tapaat matkallasi Känniääliön. ",
+            "PhotoFilename": "kanniaalio"
+        },
+        {
+            "Name": "Thirsty Dwarf",
+            "Effect": "Tapaat matkallasi janoisen Kääpiön.",
+            "PhotoFilename": "janoinen_kaapiö"
+        },
+        {
+            "Name": "The Scary Forest",
+            "Effect": "Metsässä pelottaa.",
+            "PhotoFilename": "metsa"
+        },
+        {
+            "Name": "Storm",
+            "Effect": "Heitä noppaa uudelleen.",
+            "PhotoFilename": "ukkosmyrsky"
+        },
+        {
+            "Name": "Storm",
+            "Effect": "Et saa liikuttaa pelinappulaasi tällä kierroksella. Tuo lisää juomista muille.",
+            "PhotoFilename": "ukkosmyrsky"
+        },
+        {
+            "Name": "Sandstorm",
+            "Effect": "Hiekkamyrsky lähestyy! Kohtaa se kuin JUOPPO.",
+            "PhotoFilename": "hiekkamyrsky"
+        },
+        {
+            "Name": "Hot Weather",
+            "Effect": "Heitä noppaa ja juo nopan osoittama määrä höliä. Helle tekee tehtävänsä ja nestehukka on nurkan takana. ",
+            "PhotoFilename": "helle"
+        },
+        {
+            "Name": "Bajamaja",
+            "Effect": "Teet mitä lystäät. Löydät ulkohuussin keskellä metsää.",
+            "PhotoFilename": "ulkohuussi"
+        },
+        {
+            "Name": "Red Dragon",
+            "Effect": "Näet horisontissa lohikäärmeen! Otat miehekkäästi sikiöasennon kunnes lohikäärme poistuu. Juot  korvataksesi ruumiistasi äkillisesti poistuneen nesteen.",
+            "PhotoFilename": "lohikaarme"
+        },
+        {
+            "Name": "Horse Rider",
+            "Effect": "Pelaaja vasemmallasi juo shotin tai juoksee talon ympäri ja sekä käy uimassa.",
+            "PhotoFilename": "ratsastava_kuriiri"
+        },
+        {
+            "Name": "Ystävälliset Maahiset",
+            "Effect": "Tapaat hevosrattaallisen ystävällisiä maahisia jotka ottavat sinut kyytiin. Maahiset vetävät sinua turpiin. Simuloi varjonyrkkeilemällä ja juo kipuun.",
+            "PhotoFilename": "hevosrattaallinen_maahisia"
+        },
+        {
+            "Name": "Kanto",
+            "Effect": "Simuloi kompastuminen tai ota shotti. Töhö kun olet kompastut kantoon. Simuloi esittämällä.",
+            "PhotoFilename": "kanto"
+        },
+        {
+            "Name": "Horse Rider",
+            "Effect": "Pelaaja vasemmallasi juo shotin tai juoksee talon  ympäri sekä punnertaa 30krt.",
+            "PhotoFilename": "ratsastava_kuriiri"
+        },
+        {
+            "Name": "Cliff in the forest",
+            "Effect": "Metsässä kävellessäsi kohtaat esteen. Kiipeä istumapaikkasi yli ja jatka peliä.",
+            "PhotoFilename": "este_metsassa"
+        },
+        {
+            "Name": "Snowstorm",
+            "Effect": "Lumimyrsky! Et löydä suojaa saati lämpöä mistään. Mutta se on ihan OK. ",
+            "PhotoFilename": "lumimyrsky"
+        },
+        {
+            "Name": "Meteor",
+            "Effect": "Juokse pois huoneesta ja odota viisi sekuntia. Nosta reward kortti. Näet tähdenlennon. Tarkemmin sanottuna näet meteoriitin joka lentää suoraan sinua kohti!",
+            "PhotoFilename": "tahdenlento"
+        },
+        {
+            "Name": "Fishing in the river",
+            "Effect": "Nimeä viisi eri kalalajia. Jos epäonnistut juot 5 hölää.  Jos onnistut nosta reward-kortti. Saavut kalarikkaalle joelle jossa sitten kalastelet. Epäonnistuessasi saat ruokamyrkytyksen.",
+            "PhotoFilename": "joki"
+        }
+    ]
+}
